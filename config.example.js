@@ -21,7 +21,14 @@ module.exports = {
       // Beware that the github usernames are case sensitive.
       colorByDev: {
          "gh-username": "ganttBlue",
-         "unassigned": "ganttRed"
+         "pushkar": "ganttBlue",
+         "shauvik": "ganttRed",
+         "rcackerley":"ganttOrange",
+         "DeedleFake":"ganttGreen",
+         "Abhinav41": "ganttPurple",
+         "garkanum3": "ganttPink",
+         "unassigned": "ganttCyan",
+         "unassigned": "ganttCream"
       },
 
       // Configure off periods
